@@ -9,22 +9,20 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 a passionate learner currently enrolled in the Saylani Mass IT Training Program. I'm on an exciting journey into the world of technology, with a focus on generative AI and chatbot development🤖
-	
-
-
-💡 Currently working on projects that apply generative AI techniques to real-world scenarios🧑‍💻
+🤵 a passionate learner currently enrolled in the Saylani Mass IT Training Program🤖
+     
+ 🚀 Skills: Building intelligent and interactive chatbots to enhance user experiences🌍
+    
 💡  Developing chatbots to streamline communication and automate processes🧑‍💻
 
-🔥 NLP & VUI Consultant and Web Developer 
+🔥 AI and chatbot devloper
 
-📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
 
-✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
+✨ Favorite Tech: AI TOOL CHATBOT MACHINE LEARING
 
-📓 I’m currently learning LLM's and Genrative AI... 😭
+📓 I’m currently learning Generative AI AND CHATBOT😎
 
-📧 hammadn788@gmail.com
+📧 aaashirsiddiqui@gmail.com
 
 🎨 Portfolio: https://hammad-air.github.io/hammad/
 
