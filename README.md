@@ -24,11 +24,11 @@
 
 📧 aaashirsiddiqui@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://github.com/aashirsohail104
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
+💼 LinkedIn: https://www.linkedin.com/in/aashir-siddiqui-86581b2a4
 
-📷 Instagram : https://www.instagram.com/hammad2980/
+📷 Instagram : https://www.instagram.com/aashirsiddiqui007/
  
 <h2>Tech Stack</h2>
 
@@ -68,12 +68,12 @@
     </td>
 </tr>
  
-
+https://www.linkedin.com/in/aashir-siddiqui-86581b2a4
     
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aashir-siddiqui/"><img src="https://img.shields.io/badge/-aashir%20siddiqui-86581b2a4?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hammadn788@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
