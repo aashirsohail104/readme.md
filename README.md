@@ -9,14 +9,15 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 a passionate learner currently enrolled in the Saylani Mass IT Training Program. I'm on an exciting journey into the world of technology, with a focus on generative AI and chatbot development🤖
 	
-👨‍💻 Lead NLP Developer at HandyHelps
+
+
+💡 Currently working on projects that apply generative AI techniques to real-world scenarios🧑‍💻
+💡  Developing chatbots to streamline communication and automate processes🧑‍💻
 
 🔥 NLP & VUI Consultant and Web Developer 
-	
 
-	
 📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
 
 ✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
